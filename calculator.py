@@ -9,6 +9,7 @@ def divide_new(a,b):
     return a/b;
 def getMedian(a,b):
     return (a+b)/2;
+<<<<<<< HEAD
 def getRemainder(a,b):
     return a//b;
 def get_Abs(num):
@@ -27,3 +28,10 @@ def factorial(n):
         n = n - 1
     return num;
 
+def get_Sum_ver2():
+    sum = 0
+
+    for i in range(1, n+1):
+        sum = sum + i
+
+        return sum
