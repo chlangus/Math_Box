@@ -1,0 +1,34 @@
+[33mfe636e1484c20c9d357b2391141549e72fa4b2db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpremium[m[33m)[m Add factorial function
+[33m3e4ae5779657a7fb6e63bc2536f52e7cafcf4fb1[m Add_get_sum_ver1
+[33m933b83090f641f7d7b2feed0e3ac42bfe0bae546[m Add gt_Percent function
+[33m2a67d047eeb955ecd8e73a49438eda198b2bde22[m Add get_Abs function
+[33m8fdf2733ad4afee0614cc71422491b7e3b4674c4[m Add get Remainder function
+[33mb2e7f464f86eb4fabdd21c43574c23b9ab0780b4[m Add get_Median function
+[33m82d6ca573119456c57eb5df4cf6354390f623cdb[m[33m ([m[1;31morigin/premium[m[33m)[m Revert "Add the intro of calculator.py in README.md"
+[33m1063e74b0207d5e7fdbe93fa8ba63bc6cbaa1af4[m Revert "Update README.md look nice"
+[33m2f6ef106d084758f44b7a35ac1a777247e2f6e0a[m Revert "Update README.md"
+[33m085d9646ae9a5d6e227f9bf6c06054e971690581[m Revert "Update README.md"
+[33mdd4173f0bdbd8996f39708fe81c209f53694e61d[m Revert "Update README.md"
+[33mea21b7a4d43616dee5d98f983fc5464a99cd6471[m Remov say_hello function in calculator.py
+[33mdce91e10e85af52bf033d04b450099874c7c2a05[m Add say_hello function
+[33m952b0b65479f0237cb8325c3ac71f1a0e7cead8f[m Merge branch 'premium' of https://github.com/chlangus/Math_Box into premium
+[33mbcee38a4d06f943b88042f45ce3cb54f53fe6a7f[m merge
+[33m26c29d0e232385ddf6e1e4657ed512c21a5ef203[m Update License for educational use
+[33m81736da478497f1427092703d8c4698de2ccc531[m Udpate License for enterprice use
+[33m790c8c59ab9244ee318f65dbc3705d88000d765f[m Merge branch 'master' into premium
+[33m83b9d6f47136e66e7722c5c47e48054dc73101f6[m Change divide function as free
+[33m5775280b13b7aa2148abd3eb0c8c9dbaa8fc23d6[m change divide function as premium
+[33m47d036e2a02445afae772d56d5fdf0f3ab139fbf[m Merge branch 'master' into premium
+[33m4c2ccb7ebfe85224ddfc22c8da2971d370ab81e6[m Add divide function
+[33m94d8a0ff57bc19422863cb9c8daa618900b0ded8[m License file-name changed
+[33md3419b539f463937ec005928882701894c8b49d0[m License file-name changed
+[33m238f02ed111cabdb480b6ae1bf7a1e708ac11508[m Change License from free to premium
+[33mce3f2b6b6f803072c843c6f26e3228ea2d4ac553[m Add multiply function
+[33m871e65adfea12d0e236f8123cc64f4eddee64d3b[m Update README.md
+[33m745a2ae3d852a5c19f839eab52ddd378fef40a1b[m Update README.md
+[33m47a5f57048d52ccf83b8d9977dadf3976f79f028[m Update README.md
+[33m45482decc5d41f7b82b45338ff6bfec6b078dca9[m Update README.md look nice
+[33md04abafdab2f4e6e3ef11407b136d5633b1937e1[m Add the intro of calculator.py in README.md
+[33m4c232f0e9929b9a0d6f07a4c51bd66d89d8d00e3[m Create README.md
+[33mf9812a86929ddb73e4ca27c40386c03b2fdc0259[m Add title comment and Create meeting-log
+[33m84e1503e126c72ce3cdfe2be928cecbe2c6d6781[m Create calculator.py and License
